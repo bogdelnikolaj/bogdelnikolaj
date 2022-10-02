@@ -1,7 +1,8 @@
-[![Header](https://github.com/bogdelnikolaj/bogdelnikolaj/blob/main/assets/NB.png)]()
+![Header](https://github.com/bogdelnikolaj/bogdelnikolaj/blob/main/assets/NB.png)
 
-About me
+## I am a Full Stack Engineer
 
 Languages and Tools
+![Javascript](https://img.shields.io/badge/-Javascript-000000??style=for-the-badge&logo=Javascript)
 
 Follow Me
