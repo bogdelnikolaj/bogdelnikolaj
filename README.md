@@ -10,4 +10,6 @@ Languages and Tools
 ![CSS](https://img.shields.io/badge/-CSS-000000??style=for-the-badge&logo=CSS)
 
 
-Follow Me
+### Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=Telegram)
+![Linkedin](https://img.shields.io/badge/-Linkedin-000000??style=for-the-badge&logo=Linkedin)
