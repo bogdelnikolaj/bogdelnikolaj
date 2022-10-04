@@ -11,5 +11,5 @@ Languages and Tools
 
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=Telegram)
-![Linkedin](https://img.shields.io/badge/-Linkedin-000000??style=for-the-badge&logo=Linkedin)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=Telegram)](https://t.me/Bognikolai)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000000??style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nikolay-bogdel/)
